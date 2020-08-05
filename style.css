@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(142, 223, 250);
+    font-size: 15pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#bloco{
+    position: fixed;
+    background-color: white;
+    width: 500px;
+    top: 25%;
+    left: 50%;
+    margin-left: -250px;
+    border-radius: 20px;
+    box-shadow: rgb(140, 193, 211) 1px 1px 1px 1px;
+    padding: 25px;
+}
+h1{
+    color: white;
+    font-size: 35pt;
+    text-align: center;
+    top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
